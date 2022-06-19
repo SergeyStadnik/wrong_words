@@ -26,5 +26,8 @@
     <Text Include="Wrong.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
+    <Text Include="new.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -142,6 +142,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="new.txt" />
     <Text Include="Original.txt" />
     <Text Include="Wrong.txt" />
   </ItemGroup>
